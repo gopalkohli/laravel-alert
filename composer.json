@@ -1,0 +1,20 @@
+{
+    "name": "xpromx/alert",
+    "description": "Alert session notifications",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Ramirez",
+            "email": "xpromx@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Xpromx\\Alert\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "Illuminate/support": "~5"
+    }
+}

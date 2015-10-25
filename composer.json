@@ -1,6 +1,7 @@
 {
-    "name": "xpromx/alert",
+    "name": "xpromx/laravel-alert",
     "description": "Alert session notifications",
+    "keywords": ["laravel"],
     "license": "MIT",
     "authors": [
         {

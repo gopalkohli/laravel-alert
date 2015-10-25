@@ -18,7 +18,6 @@
 
     "minimum-stability": "dev",
     "require": {
-        "illuminate/session": "~5.0",
-        "illuminate/support": "~5.0"
+        "php": ">=5.4.0",
     }
 }

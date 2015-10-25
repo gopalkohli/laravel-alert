@@ -18,6 +18,7 @@
 
     "minimum-stability": "dev",
     "require": {
-        "Illuminate/support": "~5"
+        "illuminate/session": "~5.0",
+        "illuminate/support": "~5.0"
     }
 }

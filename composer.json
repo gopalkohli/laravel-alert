@@ -8,11 +8,13 @@
             "email": "xpromx@gmail.com"
         }
     ],
+    
     "autoload": {
         "psr-4": {
             "Xpromx\\Alert\\": "src/"
         }
     },
+
     "minimum-stability": "dev",
     "require": {
         "Illuminate/support": "~5"
